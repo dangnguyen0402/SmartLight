@@ -5,4 +5,4 @@ Description: This project is created in Java using Android Studio with the purpo
 All the documents are included the the project.
 
 Screenshot of the app:
-![ScreenShot](https://raw.github.com/dangnguyen0402/SmartLight/screenshots/Screenshot_1.jpg)
+![ScreenShot](https://github.com/dangnguyen0402/SmartLight/screenshots/Screenshot_1.jpg)
