@@ -5,3 +5,4 @@ Description: This project is created in Java using Android Studio with the purpo
 All the documents are included the the project.
 
 Screenshot of the app:
+![Alt text](/SmartLight/screenshots/Screenshot_1.jpg?raw=true "")
