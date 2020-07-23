@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_titles">
+        <item>Bulb 1</item>
+        <item>Bulb 2</item>
+        <item>Bulb 3</item>
+        <item>Bulb 4 </item>
+        <item>Bulb 5</item>
+        <item>Bulb 6</item>
+        <item>Bulb 7</item>
+        <item>Bulb 8</item>
+        <item>Bulb 9</item>
+    </string-array>
+</resources>

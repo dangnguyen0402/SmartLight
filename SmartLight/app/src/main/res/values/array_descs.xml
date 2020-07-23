@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_descs">
+        <item>801270AEE1983E873774E41F731E96101C74494A</item>
+        <item>Device Id 2</item>
+        <item>Device Id 3</item>
+        <item>Device Id 4</item>
+        <item>Device Id 5</item>
+        <item>Device Id 6</item>
+        <item>Device Id 7</item>
+        <item>Device Id 8</item>
+        <item>Device Id 9</item>
+    </string-array>
+</resources>
